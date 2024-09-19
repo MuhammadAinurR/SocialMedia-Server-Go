@@ -1,6 +1,7 @@
 # go-server
 
 Register, Login, Logout, CRUD on user, content, stack database collections
+![gif](/assets/golang.gif)
 
 ## Table of Contents
 
